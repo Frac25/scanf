@@ -137,7 +137,7 @@ int ft_scanf(const char *format, ...)
 
 	buf2 = ft_split(buf, ' ');
 	format2 = ft_split(format, sep);
-
+   
 /*	j = 0;
 	while (buf2[j])
 	{
